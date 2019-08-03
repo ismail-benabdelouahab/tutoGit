@@ -1,0 +1,23 @@
+{
+	"idClub": 100,
+	"nomClub": "Real Madrid FC",
+	"anneCrea": 1902,
+	"pays": "Espagne",
+	"joueur": [{
+			"idJoueur": 1201,
+			"nom": "HAZARD",
+			"prenom": "Eden",
+			"ddn": "08-09-1990",
+			"poste": "Att",
+			"dossard": "10"
+		},
+		{
+			"idJoueur": 1369,
+			"nom": "RAMOS",
+			"prenom": "Sergio",
+			"ddn": "30-04-1984",
+			"poste": "Def",
+			"dossard": "04"
+		}
+	]
+}
